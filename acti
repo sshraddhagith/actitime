@@ -1,5 +1,5 @@
 driver.findelementBy.id
 driver.findelementBy.name
 driver.findelementBy.tagname
-driver.findelementBy.linktext
-driver.findelementBy.partiallinktext
+river.manage().window().maximize();
+driver.manage().timeout().Implicitilywait(Duration.ofSeconds(10));
